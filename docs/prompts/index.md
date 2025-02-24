@@ -10,3 +10,9 @@
 8. **Glossary of Terms** - we can generate an ISO-11179 concept definition for each of the concepts
 in our concept graph
 
+## Course Description
+
+[Course Description](./course-description.md)
+
+## Concept Enumeration
+
