@@ -1,3 +1,3 @@
-# Welcome
+# Learning GQL with AI
 
-Welcome to our website.
+
